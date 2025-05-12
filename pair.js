@@ -81,11 +81,11 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `*ASHEN [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*wa.me/message/WKGLBR2PCETWD1*\n\n*You can join my whatsapp group*\n\n*https://chat.whatsapp.com/GAOhr0qNK7KEvJwbenGivZ*`;
+            const sid = `ASHEN-MD WhatsApp Bot PAIR\n\nowner whatsapp number +94763827993\n\nwhatsapp me =https://Wa.me/+94763827993?text=Hy_ASHEN-MD_Owner_⚡\n\nPowered by ASHEN ⚡`;
             const mg = `🛑 *Do not share this ASHEN-MD WA BOT code to anyone* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20WP.jpg",
+                url: "https://raw.githubusercontent.com/ashen698/ASHEN-BOT-PHOTO/refs/heads/main/WhatsApp%20Image%202025-05-11%20at%2010.20.35_decb7878.jpg",
               },
               caption: sid,
             });
