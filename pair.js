@@ -81,7 +81,7 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `ASHEN-MD WhatsApp Bot PAIR\n\nowner whatsapp number +94763827993\n\nwhatsapp me =https://Wa.me/+94763827993?text=Hy_ASHEN-MD_Owner_⚡\n\nPowered by ASHEN ⚡`;
+            const sid = `ASHEN-MD WhatsApp Bot PAIR\n\nowner whatsapp number 👇\n\nwhatsapp me =https://Wa.me/+94763827993?text=Hy_ASHEN-MD_Owner_⚡\n\nPowered by ASHEN ⚡`;
             const mg = `🛑 *Do not share this ASHEN-MD WA BOT code to anyone* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
