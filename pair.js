@@ -85,7 +85,7 @@ router.get("/", async (req, res) => {
             const mg = `🛑 *Do not share this ASHEN-MD WA BOT code to anyone* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/ashen698/ASHEN-BOT-PHOTO/refs/heads/main/WhatsApp%20Image%202025-05-11%20at%2010.20.35_decb7878.jpg",
+                url: "https://raw.githubusercontent.com/ashen698/ASHEN-BOT-PHOTO...../refs/heads/main/WhatsApp%20Image%202025-05-11%20at%2020.00.36_6a27be9a.jpg",
               },
               caption: sid,
             });
